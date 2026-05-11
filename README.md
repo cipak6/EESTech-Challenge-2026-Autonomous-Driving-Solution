@@ -2,7 +2,7 @@
 
 **4th place** at the EESTech Challenge 2026 autonomous driving competition hosted on the [MetaDrive](https://github.com/metadriverse/metadrive) simulator.
 
-Built by **Sergej Čipak**[cipak6](https://github.com/cipak6) and **Marko Vukmirović** [@MarkoVukmirovic02](https://github.com/MarkoVukmirovic02).
+Built by **Sergej Čipak** [@cipak6](https://github.com/cipak6) and **Marko Vukmirović** [@MarkoVukmirovic02](https://github.com/MarkoVukmirovic02).
 
 ---
 
